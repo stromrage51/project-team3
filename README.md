@@ -2,3 +2,4 @@
 
 ## Members:
 - Bradman Davis
+- Hexon Hartley Jimenez
