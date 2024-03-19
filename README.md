@@ -3,3 +3,4 @@
 ## Members:
 - Bradman Davis
 - Hexon Hartley Jimenez
+- Matthew Ballarino
